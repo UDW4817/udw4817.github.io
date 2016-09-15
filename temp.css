@@ -5,16 +5,13 @@ li {
 img {
 	opacity: 1;
 }
-{
-	align-content:right;
-}
 
 .container > div > a {
 	color: #337ab7;
 }
 
 a:hover {
-	text-decoration: white;
+	text-decoration: none color:blue;
 }
 
 a:visited {
@@ -33,9 +30,7 @@ a:active {
 	width:550px;
 	margin:10px;
 }
-img{
-	opacity: 1;
-}
-h3{
-	color: blue;
+button {
+	background: #2db34a;
+	color: #fff;
 }
